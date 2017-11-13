@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWebAppointment", "SimpleWebAppointment\SimpleWebAppointment.csproj", "{79BA1B73-937E-41B2-95F3-9FF37693B8B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppointmentProcessor", "AppointmentProcessor\AppointmentProcessor.csproj", "{E803DE44-CC97-4D79-A395-7476AE81B567}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79BA1B73-937E-41B2-95F3-9FF37693B8B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79BA1B73-937E-41B2-95F3-9FF37693B8B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79BA1B73-937E-41B2-95F3-9FF37693B8B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79BA1B73-937E-41B2-95F3-9FF37693B8B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E803DE44-CC97-4D79-A395-7476AE81B567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E803DE44-CC97-4D79-A395-7476AE81B567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E803DE44-CC97-4D79-A395-7476AE81B567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E803DE44-CC97-4D79-A395-7476AE81B567}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE48EEFA-BBDA-495F-B58A-F40BC201E39B}
+	EndGlobalSection
+EndGlobal
